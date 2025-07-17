@@ -16,6 +16,11 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
 </p>
 
+#### Preprocessors
+<p>
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white" alt="Sass"/>
+</p>
+
 #### Version Control & CI/CD
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
@@ -25,6 +30,8 @@
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=temesgen-982&style=flat-square)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=temesgen-982&layout=compact&hide_border=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **temesgen-982/temesgen-982** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
