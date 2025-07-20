@@ -16,12 +16,8 @@
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 
 ---
-
-![](https://hit.yhype.me/github/profile?account_id=146086384)
+![](https://komarev.com/ghpvc/?username=temesgen-982&abbreviated=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=temesgen-982&layout=compact&hide_border=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-
-<!--
-**temesgen-982/temesgen-982** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+![](https://hit.yhype.me/github/profile?account_id=146086384)
