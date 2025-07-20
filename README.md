@@ -17,7 +17,7 @@
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=temesgen-982&style=flat-square)
+![](https://hit.yhype.me/github/profile?account_id=146086384)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=temesgen-982&layout=compact&hide_border=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
