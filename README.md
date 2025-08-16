@@ -13,7 +13,6 @@
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 
 ---
-![](https://komarev.com/ghpvc/?username=temesgen-982&abbreviated=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=temesgen-982&layout=compact&hide_border=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
