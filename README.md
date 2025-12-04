@@ -14,4 +14,4 @@
 
 ---
 
-[![Top Langs](https://gitmystat.vercel.app/top?username=temesgen-982&layout=bar)
+![Top Langs](https://gitmystat.vercel.app/top?username=temesgen-982&layout=bar)
