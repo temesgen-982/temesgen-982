@@ -13,5 +13,3 @@
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)
 
 ---
-
-![Top Langs](https://gitmystat.vercel.app/top?username=temesgen-982&layout=bar)
