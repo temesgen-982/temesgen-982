@@ -15,3 +15,6 @@
 **Databases:**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
+
+
+[![roadmap.sh](https://roadmap.sh/card/wide/686786061ed6bc62a2706436?variant=dark&roadmaps=backend)](https://roadmap.sh)
