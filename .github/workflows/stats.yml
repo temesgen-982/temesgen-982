@@ -20,3 +20,4 @@ jobs:
           visualization_types: "leaderboard"
           output_path: "stats"
           dark_mode: "true"
+          exclude_repos: "hospital-management-c-sharp"
