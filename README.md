@@ -20,4 +20,4 @@
 
 [![roadmap.sh](https://roadmap.sh/card/tall/686786061ed6bc62a2706436?variant=dark)](https://roadmap.sh)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=temesgen-982&layout=compact&theme=dark)
+![Language Stats](stats/leaderboard_by_bytes.png)
