@@ -9,13 +9,14 @@
 
 ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?logo=svelte&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![React Router v7](https://img.shields.io/badge/React%20Router%20v7-CA4245?logo=reactrouter&logoColor=white)
 ![Astro](https://img.shields.io/badge/Astro-1A1A1A?logo=astro&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)
 
 **Databases:**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
-
+![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
 ---
 
 [![roadmap.sh](https://roadmap.sh/card/tall/686786061ed6bc62a2706436?variant=dark)](https://roadmap.sh)
