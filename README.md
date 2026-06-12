@@ -28,6 +28,7 @@ I'm Temesgen. A software developer based in Ethiopia.
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
+
 ---
 
 [![roadmap.sh](https://roadmap.sh/card/tall/686786061ed6bc62a2706436?variant=dark)](https://roadmap.sh)
