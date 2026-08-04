@@ -1,6 +1,6 @@
 Hi! I'm Temesgen. 
 
-A full-stack developer based from Ethiopia.
+A full-stack developer from Ethiopia.
 
 ---
 
