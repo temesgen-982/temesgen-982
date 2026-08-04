@@ -1,6 +1,6 @@
-Hi there!
+Hi! I'm Temesgen. 
 
-I'm Temesgen. A software developer based in Ethiopia.
+A full-stack developer based from Ethiopia.
 
 ---
 
